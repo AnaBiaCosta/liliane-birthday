@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  background-color: #FBEAFF;
+}
+
+.img {
+    width: 500px
+}
+
+.title {
+  color: #C34A36;
+}
